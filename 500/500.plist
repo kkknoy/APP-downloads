@@ -15,24 +15,7 @@
      <!-- http或者https链接的ipa文件地址 -->
      <string>https://raw.githubusercontent.com/kkknoy/APP-downloads/master/500/500.ipa</string>
     </dict>
-    <dict>
-     <key>kind</key>
-     <string>full-size-image</string>
-     <key>needs-shine</key>
-     <true/>
-     <key>url</key>
-     <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://raw.githubusercontent.com/kkknoy/APP-downloads/master/500/500.icon</string>
-    </dict>
-    <dict>
-     <key>kind</key>
-     <string>display-image</string>
-     <key>needs-shine</key>
-     <true/>
-     <key>url</key>
-     <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://raw.githubusercontent.com/kkknoy/APP-downloads/master/500/500.icon</string>
-    </dict>
+    
    </array>
    <key>metadata</key>
    <dict>
@@ -41,12 +24,12 @@
     <string>500it.com</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.0.0</string>
+    <string>1.0.1</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>App download</string>
+    <string>500 彩票</string>
    </dict>
   </dict>
  </array>
