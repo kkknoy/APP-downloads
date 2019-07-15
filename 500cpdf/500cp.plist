@@ -21,7 +21,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
      <key>bundle-identifier</key>
      <string><![CDATA[500cpw]]></string>
      <key>bundle-version</key>
-     <string><![CDATA[1.0.1]]></string>
+     <string><![CDATA[1.0.2]]></string>
      <key>kind</key>
      <string><![CDATA[software]]></string>
      <key>subtitle</key>
