@@ -1,4 +1,4 @@
-# APP-downloads
+﻿# APP-downloads
 #有些手机对plist 是严格模式,所以建议删除一些不必要的,不存在的dict
 #签名日期
 一.5.16  | fhcp   |签名一季度   App
@@ -11,4 +11,4 @@
 六.6.20  | 500cpdf|签名一季度   App
 七.6.28  | zccp   |签名一季度   熊猫
 
-八.0.00  | flcp   |签名一季度   ios
+八.0.00  | flcp   |签名一季度   ios7.11  7.16
