@@ -21,13 +21,13 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
      <key>bundle-identifier</key>
      <string><![CDATA[flcp]]></string>
      <key>bundle-version</key>
-     <string><![CDATA[1.0.1]]></string>
+     <string><![CDATA[1.0.2]]></string>
      <key>kind</key>
      <string><![CDATA[software]]></string>
      <key>subtitle</key>
      <string><![CDATA[flcp]]></string>
      <key>title</key>
-     <string><![CDATA[福利彩票（安装完成之后，请到设置->通用->描述文件/设备管理，信任企业级应用）]]></string>
+     <string><![CDATA[-福利彩票（安装完成之后，请到设置->通用->描述文件/设备管理，信任企业级应用）]]></string>
     </dict>
    </dict>
   </array>
