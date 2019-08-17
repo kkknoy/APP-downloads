@@ -13,7 +13,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
       <key>kind</key>
       <string><![CDATA[software-package]]></string>
       <key>url</key>
-      <string><![CDATA[https://raw.githubusercontent.com/kkknoy/APP-downloads/master/flcp2/flcp2_1.2.ipa]]></string>
+      <string><![CDATA[https://raw.githubusercontent.com/kkknoy/APP-downloads/master/flcp2/flcp2_1.3.ipa]]></string>
      </dict>
     </array>
     <key>metadata</key>
@@ -21,7 +21,7 @@ PUBLIC "-//Apple//DTD PLIST 1.0//EN"
      <key>bundle-identifier</key>
      <string><![CDATA[flcp]]></string>
      <key>bundle-version</key>
-     <string><![CDATA[1.0.2]]></string>
+     <string><![CDATA[1.0.3]]></string>
      <key>kind</key>
      <string><![CDATA[software]]></string>
      <key>subtitle</key>
